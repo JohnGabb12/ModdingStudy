@@ -18,6 +18,9 @@
 		"main": [
 			"me.icedreem.ModdingStudy"
 		],
+		"client": [
+			"me.icedreem.client.ModdingStudyClient"
+		],
 		"fabric-datagen": [
 			"me.icedreem.ModdingStudyDataGenerator"
 		]
